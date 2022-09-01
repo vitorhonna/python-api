@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "score": "80",
+            "user_id": "c28a39df-2a04-11ed-a6bb-ec086b13b9a6",
+            "link": "http://www.example.com/c28a39df-2a04-11ed-a6bb-ec086b13b9a6"
+        },
+        {
+            "name": "Jane Doe",
+            "email": "jane.doe@example.com",
+            "score": "85",
+            "user_id": "c39bd08f-2a04-11ed-a4cf-ec086b13b9a6",
+            "link": "http://www.example.com/c39bd08f-2a04-11ed-a4cf-ec086b13b9a6"
+        },
+        {
+            "name": "Johnny Doe",
+            "email": "johnny.doe@example.com",
+            "score": "76",
+            "user_id": "574c29bf-2a20-11ed-9379-ec086b13b9a6",
+            "link": "http://www.example.com/574c29bf-2a20-11ed-9379-ec086b13b9a6"
+        }
+    ]
+}
